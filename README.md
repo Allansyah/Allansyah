@@ -1,7 +1,7 @@
 <!-- ============ HEADER (animated wave) ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=240&section=header&text=Allansyah%20Brawinatha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="Allansyah Brawinatha - Fullstack Web & Mobile Developer" />
 
 <!-- Typing animation -->
 <a href="https://github.com/Allansyah">
@@ -111,7 +111,13 @@ const allansyah = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Allansyah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+<img src="https://img.shields.io/badge/Fullstack-Web%20%26%20Mobile-00c6ff?style=for-the-badge&logo=react&logoColor=white" alt="fullstack" />
+<img src="https://img.shields.io/badge/Informatics-Engineering-2c5364?style=for-the-badge&logo=academia&logoColor=white" alt="informatics" />
+<img src="https://img.shields.io/badge/Generative-AI%20Learner-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="genai" />
+<br/>
+<img src="https://img.shields.io/github/followers/Allansyah?label=Followers&style=for-the-badge&logo=github&color=181717" alt="followers" />
+<img src="https://img.shields.io/github/stars/Allansyah?label=Total%20Stars&style=for-the-badge&logo=github&color=FFC107" alt="stars" />
+<img src="https://img.shields.io/github/created-at/Allansyah?label=GitHub%20Since&style=for-the-badge&logo=github&color=4CAF50" alt="since" />
 
 </div>
 
@@ -140,6 +146,6 @@ const allansyah = {
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Open+to+collaboration+and+new+opportunities+%F0%9F%9A%80;Let's+build+something+awesome+together!" alt="footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="assets/header.svg" width="100%" alt="footer" />
 
 </div>
