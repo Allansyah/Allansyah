@@ -1,36 +1,145 @@
-## Hi there 👋
+<!-- ============ HEADER (animated wave) ============ -->
+<div align="center">
 
-# 💫 About Me:
-👋 Hi! I'm Allansyah Brawinatha, an Informatics Engineering student and a Fullstack Web & Mobile Developer based in Indonesia.<br><br>💻 I enjoy building modern, responsive, and user-focused applications, from frontend interfaces to backend systems, databases, and APIs.<br><br>🚀 I'm experienced with technologies such as React, Next.js, Laravel, PHP, Flutter, MySQL, PostgreSQL, and Prisma. I also enjoy exploring new technologies and turning ideas into practical digital solutions.<br><br>🧠 I'm passionate about problem solving, clean development, and creating technology that can simplify everyday activities and help businesses grow.<br><br>🌱 Currently, I'm continuously learning, building projects, and improving my skills in web development, mobile development, and Generative AI.<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=240&section=header&text=Allansyah%20Brawinatha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=58" width="100%" alt="header" />
 
+<!-- Typing animation -->
+<a href="https://github.com/Allansyah">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Allansyah;Informatics+Engineering+Student+%F0%9F%8E%93;Fullstack+Web+%26+Mobile+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Laravel+%7C+Flutter+%F0%9F%9A%80;Exploring+Generative+AI+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alllbnth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allansyahbrawinatha01@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Allansyah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Allansyah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Allansyah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=Allansyah&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/Allansyah?style=for-the-badge&logo=github&color=2c5364" alt="followers" />
+<img src="https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-red?style=for-the-badge" alt="location" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Allansyah&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="62%">
 
-<!--
-**Allansyah/Allansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm **Allansyah Brawinatha**, an **Informatics Engineering** student and a **Fullstack Web & Mobile Developer** based in Indonesia.
 
-Here are some ideas to get you started:
+💻 I enjoy building **modern, responsive, and user-focused** applications, from frontend interfaces to backend systems, databases, and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Experienced with **React, Next.js, Laravel, PHP, Flutter, MySQL, PostgreSQL, and Prisma**, and always exploring new technologies to turn ideas into practical digital solutions.
+
+🧠 Passionate about **problem solving, clean development**, and creating technology that simplifies everyday activities and helps businesses grow.
+
+🌱 Currently learning and building in **Web Development, Mobile Development, and Generative AI**.
+
+</td>
+<td width="38%" align="center">
+
+```js
+const allansyah = {
+  role: "Fullstack Developer",
+  education: "Informatics Eng.",
+  location: "Indonesia 🇮🇩",
+  focus: ["Web", "Mobile", "GenAI"],
+  currentlyLearning: "Generative AI",
+  funFact: "Coffee → Code ☕",
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,bootstrap,tailwind,vite,astro,jquery&perline=13" alt="frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,go,python,java,kotlin&perline=13" alt="backend" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,firebase&perline=13" alt="mobile" />
+
+**Database & ORM**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,firebase&perline=13" alt="database" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,npm,vscode,figma,postman,linux&perline=13" alt="tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Allansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Allansyah&theme=tokyonight&hide_border=true&layout=compact" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Allansyah&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Allansyah&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Allansyah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Needs the GitHub Action in .github/workflows/snake.yml (see instructions below) -->
+<img src="https://raw.githubusercontent.com/Allansyah/Allansyah/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://instagram.com/alllbnth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:allansyahbrawinatha01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Allansyah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Open+to+collaboration+and+new+opportunities+%F0%9F%9A%80;Let's+build+something+awesome+together!" alt="footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
