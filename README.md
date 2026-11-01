@@ -1,7 +1,7 @@
 <!-- ============ HEADER (animated wave) ============ -->
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Allansyah Brawinatha - Fullstack Web & Mobile Developer" />
+<!-- <img src="assets/header.svg" width="100%" alt="Allansyah Brawinatha - Fullstack Web & Mobile Developer" /> -->
 
 <!-- Typing animation -->
 <a href="https://github.com/Allansyah">
