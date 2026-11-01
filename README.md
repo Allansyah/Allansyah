@@ -121,16 +121,6 @@ const allansyah = {
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Needs the GitHub Action in .github/workflows/snake.yml (see instructions below) -->
-<img src="https://raw.githubusercontent.com/Allansyah/Allansyah/output/github-snake-dark.svg" alt="snake animation" width="100%" />
-
-</div>
 
 ---
 
@@ -146,6 +136,6 @@ const allansyah = {
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Open+to+collaboration+and+new+opportunities+%F0%9F%9A%80;Let's+build+something+awesome+together!" alt="footer typing" />
 
-<img src="assets/header.svg" width="100%" alt="footer" />
+<!-- <img src="assets/header.svg" width="100%" alt="footer" /> -->
 
 </div>
